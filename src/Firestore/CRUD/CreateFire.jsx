@@ -30,7 +30,7 @@ const CreateFire = () => {
   return (
     <>
       <div className="form-bg">
-        <div className="container">
+        <div className="container my-1">
           <div className="row justify-content-center">
             <div className="col-md-6">
               <div className="card shadow-lg mt-5 border-0 rounded-3">
